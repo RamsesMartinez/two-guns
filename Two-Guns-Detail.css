@@ -720,7 +720,7 @@
 
 .u-section-2 .u-text-2 {
   font-size: 1.25rem;
-  margin: 0 30px;
+  margin: 91px 60px 0 30px;
 }
 
 .u-section-2 .u-video-1 {
@@ -822,6 +822,10 @@
 
   .u-section-2 .u-layout-cell-1 {
     min-height: 624px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 30px;
   }
 
   .u-section-2 .u-video-1 {
